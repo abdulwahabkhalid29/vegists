@@ -97,7 +97,7 @@
                             <div class="header-main">
                                 <!-- logo start -->
                                 <div class="header-element logo">
-                                    <a href="index3.html">
+                                    <a href="{{route('index')}}">
                                         <img src="{{asset('image/logo2.png')}}" alt="logo-image" class="img-fluid">
                                     </a>
                                 </div>
